@@ -1,0 +1,31 @@
+# Repositories
+
+https://download.ericzimmermanstools.com/Get-ZimmermanTools.zip
+
+# Debugging
+
+https://learn.microsoft.com/en-us/windows-hardware/drivers/debugger/
+
+# Encoding/Decoding
+
+# Reversing
+
+https://github.com/nationalsecurityAgency/ghidra
+
+# Cloud
+
+## 365
+
+https://hawkforensics.io/
+
+https://github.com/syne0/osprey
+
+## Azure
+
+## AWS
+
+# Endpoint & Disk
+
+https://www.exterro.com/digital-forensics-software/ftk-imager
+
+https://medium.com/@rihanmujahid46/live-windows-forensics-using-powershell-and-sysinternals-c6997e869075
