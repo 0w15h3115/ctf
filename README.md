@@ -1,1 +1,1 @@
-CTF history and tradecraft
+CTF journal and tradecraft repository
